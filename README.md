@@ -1,13 +1,13 @@
 # Ad-Blocker-Chrome-Extension
 This is a simple ad-blocker Chrome extension that enhances your browsing experience by blocking intrusive ads and pop-ups.
 
-Screenshots
+## Screenshots
 
-__Before turning on Ad-Blocker__
+__Before turning on Ad-Blocker:__
 
 ![alt text](<Screenshot 2024-03-30 203743-1.png>)
 
-__After turning on Ad-Blocker__
+__After turning on Ad-Blocker:__
 
 ![alt text](<Screenshot 2024-03-30 203825-1.png>)
 
